@@ -1,0 +1,4 @@
+The following code is code from https://www.youtube.com/watch?v=kqtD5dpn9C8 so if you do not understand
+please watch the video.
+
+This is a semi guide to Python discussing the basics.
